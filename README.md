@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**tanvir-005/tanvir-005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzM3MjM2OWJiYjM4ZDM4ZWM5ZmM5ZGNiYzM4ZjM5OWM5ZmNhZjFkNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3oKIPc9VZj4ylzjcys/giphy.gif" width="400"/>
 </div>
@@ -23,4 +18,3 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
--->    

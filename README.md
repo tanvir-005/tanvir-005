@@ -5,16 +5,13 @@
 </div>
 
 <div align="center">
-  <a href="https://www.facebook.com/your.profile" target="_blank">
+  <a href="https://www.facebook.com/005tanvir" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="https://www.instagram.com/your.profile" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://codeforces.com/profile/your.handle" target="_blank">
+  <a href="https://codeforces.com/profile/tanvir_005" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:tanvir.24633@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>

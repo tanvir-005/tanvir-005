@@ -6,17 +6,17 @@ I'm a passionate and motivated developer with interests in **competitive program
 
 ### 🔗 Connect with me
 
-<a href="https://linkedin.com/in/tanvir-ahmed-siddique-" target="_blank">
+<a href="https://linkedin.com/in/tanvir-ahmed-siddique-" target="_blank" style="text-decoration: none; color: white;">
   <img src="https://img.icons8.com/ios-filled/24/0077B5/linkedin.png" width="20" height="20" alt="LinkedIn" />
   &nbsp;LinkedIn
 </a>
 <br>
-<a href="https://codeforces.com/profile/tanvir_005" target="_blank">
+<a href="https://codeforces.com/profile/tanvir_005" target="_blank" style="text-decoration: none; color: white;">
   <img src="cf.png" width="20" height="20" alt="Codeforces" />
   &nbsp;Codeforces
 </a>
 <br>
-<a href="https://facebook.com/005tanvir" target="_blank">
+<a href="https://facebook.com/005tanvir" target="_blank" style="text-decoration: none; color: white;">
   <img src="https://img.icons8.com/ios-filled/24/1877F2/facebook-new.png" width="20" height="20" alt="Facebook" />
   &nbsp;Facebook
 </a>

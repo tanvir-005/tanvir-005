@@ -1,4 +1,4 @@
-# Hello there, I'm Md. Tanvir Ahmed Siddique. Hope you're enjoying your day.
+# Hello there, I'm Md. Tanvir Ahmed Siddique.
 
 I'm a passionate and motivated developer with interests in **competitive programming**.
 

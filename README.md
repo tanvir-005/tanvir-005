@@ -8,17 +8,17 @@ I'm a passionate and motivated developer with interests in **competitive program
 
 <a href="https://linkedin.com/in/tanvir-ahmed-siddique-" target="_blank">
   <img src="https://img.icons8.com/ios-filled/24/0077B5/linkedin.png" width="20" height="20" alt="LinkedIn" />
-  LinkedIn
+  &nbsp;LinkedIn
 </a>
 <br>
 <a href="https://codeforces.com/profile/tanvir_005" target="_blank">
   <img src="cf.png" width="20" height="20" alt="Codeforces" />
-  Codeforces
+  &nbsp;Codeforces
 </a>
 <br>
 <a href="https://facebook.com/005tanvir" target="_blank">
   <img src="https://img.icons8.com/ios-filled/24/1877F2/facebook-new.png" width="20" height="20" alt="Facebook" />
-  Facebook
+  &nbsp;Facebook
 </a>
 
 ---
